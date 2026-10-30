@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#Excel data frames
+*.xlsx
+*.csv
+
+# Permitir el dataset del proyecto
+!data/supermarket_sales.csv
