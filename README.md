@@ -30,3 +30,4 @@ python -m streamlit run app.py
 Los datos están en `data/supermarket_sales.csv` y el análisis en `notebooks/eda_supermarket.ipynb`.
 
 > **Estado del proyecto:** los cálculos son serios; el diseño todavía negocia su salida del bloque soviético. 🐼
+
