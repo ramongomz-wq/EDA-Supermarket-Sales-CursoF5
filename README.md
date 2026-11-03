@@ -1,6 +1,8 @@
 # EDA-Supermarket-Sales-CursoF5
 Análisis exploratorio de datos de ventas de supermercados con Python
 
+---
+
 # 📊 Supermarket Sales | EDA + Dashboard
 
 Análisis exploratorio de **1.400 facturas** de supermercados en **Yangon, Naypyitaw y Mandalay**, correspondientes al primer trimestre de 2019.
