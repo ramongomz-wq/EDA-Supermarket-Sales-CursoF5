@@ -5,6 +5,8 @@ Análisis exploratorio de datos de ventas de supermercados con Python
 
 # 📊 Supermarket Sales | EDA + Dashboard
 
+🌐 **[Abrir el dashboard interactivo](https://eda-supermarket-ray.streamlit.app)**
+
 Análisis exploratorio de **1.400 facturas** de supermercados en **Yangon, Naypyitaw y Mandalay**, correspondientes al primer trimestre de 2019.
 
 El objetivo: descubrir qué cuentan las ventas cuando dejamos que los datos hablen. Spoiler: febrero tenía menos transacciones, pero un ticket medio mayor. 📈
